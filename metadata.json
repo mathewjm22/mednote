@@ -1,0 +1,5 @@
+{
+  "name": "MediNote AI",
+  "description": "Transcribe patient conversations and generate medical notes.",
+  "requestFramePermissions": ["microphone"]
+}
